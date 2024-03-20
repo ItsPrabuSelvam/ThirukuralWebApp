@@ -1,0 +1,27 @@
+{
+  "short_name": "திருகுறள்",
+  "name": "திருகுறள் -By PrabuSelvam",
+  "icons": [
+    {
+      "src": "thiruvalluvar-statue-365.png",
+      "sizes": "512x512 365x365 192x192 64x64 32x32 24x24 16x16",
+      "type": "image/png",
+      "purpose" : "any maskable"
+    },
+    {
+      "src": "thiruvalluvar-statue-192.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "thiruvalluvar-statue-365.jpg",
+      "type": "image/jpg",
+      "sizes": "365x365",
+      "purpose" : "maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
